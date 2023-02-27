@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nsample_main\n\n sample_main (name:str)\n\nThis is a sample function from the first module\n\nsource\n\n\nadd\n\n add (a:int, b:int)\n\nFunction to add two numbers"
+  },
+  {
+    "objectID": "second.html",
+    "href": "second.html",
+    "title": "Second Module",
+    "section": "",
+    "text": "source\n\nsample_main\n\n sample_main (name:str)\n\nThis is a sample function from the first module\n\nsource\n\n\nadd\n\n add (a:int, b:int)\n\nFunction to add two numbers\n\nassert add(1,2) == 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
